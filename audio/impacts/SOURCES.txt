@@ -1,0 +1,65 @@
+Impact sounds for src/impacts.ts. Every recording below is CC0 (public domain):
+no credit required, free for commercial use.
+
+One-shots: cut at the hit and faded out fast. High-passed at 45-150 Hz to drop
+rumble and the recordings' own engines (the game has its own). Levelled so the
+loudest 50 ms of each is about -12 dBFS RMS (the clattery ones a little under,
+held back by the -1 dBFS peak limit). Mono, 44.1 kHz, 16-bit.
+
+Wall (a car into a barrier):
+
+wall-1.wav    0.14-1.05 s of "S021_Metal_Impact_Mono.wav" by Pól (heavy metal
+              crunch on a deep thud)      https://freesound.org/s/385937/
+wall-2.wav    0.40-1.40 s of "Car Crash" by squareal (layered crash: metal
+              cabinet hit, grit, some glass) https://freesound.org/s/237375/
+wall-3.wav    0.00-0.54 s, all of "Clank Car Crash Collision" by qubodup (short,
+              bassy crunch)               https://freesound.org/s/151624/
+              (made from "crash.wav" by moxobna, also CC0,
+              https://freesound.org/s/40158/)
+wall-4.wav    0.18-0.56 s of "Metal Hit 2" by dslrguide (an axe against a metal
+              wheelbarrow: the light, glancing hit)
+                                          https://freesound.org/s/321482/
+
+Car (body against body):
+
+car-1.wav     3.65-4.30 s of "Car Crash_EXT.wav" by PauliusI (a real Peugeot 406
+              hitting a Ford Ka; high-passed at 150 Hz for its engine)
+                                          https://freesound.org/s/346299/
+car-2.wav     20.14-20.60 s of "Foley man hitting a car bonnet various.wav" by
+              dbspin (a panel bang that rings)
+                                          https://freesound.org/s/396686/
+car-3.wav     5.08-5.62 s of "Dropping sheet metal" by SamsterBirdies (sheet
+              metal crashing onto concrete) https://freesound.org/s/587442/
+car-4.wav     4.35-4.80 s, same recording as car-2 (a double knock on the body)
+                                          https://freesound.org/s/396686/
+
+Plastic (a bumper or panel cracking off):
+
+plastic-1.wav 0.48-1.45 s of "flashlight big chunky plastic emergency light
+              fall on gritty concrete cellar floor and bounce and rock close nice
+              impact.wav" by kyles (a chunky plastic thump, then it bounces and
+              rocks on rough concrete)    https://freesound.org/s/452622/
+plastic-2.wav 1.33-1.90 s of "Smash plastic" by AUDACITIER (a bright crack)
+                                          https://freesound.org/s/623592/
+plastic-3.wav 16.40-17.15 s of "Computer Rattle and Smash" by IENBA (a plastic
+              case smashing and rattling) https://freesound.org/s/880747/
+plastic-4.wav 0.78-1.45 s of "Breaking Plastic Smoke Alarm" by petehallw (three
+              cracks as a casing tears)   https://freesound.org/s/620071/
+
+Debris (a loose part kicked along the road):
+
+debris-1.wav  0.04-0.95 s of "Kicking metal can" by alara_kanat (a kick, then
+              two bounces)                https://freesound.org/s/816752/
+debris-2.wav  2.86-3.50 s of "plastic metallic clatter.wav" by toddcircle
+                                          https://freesound.org/s/442362/
+debris-3.wav  5.00-5.65 s, same recording https://freesound.org/s/442362/
+
+Loop (seamless: the tail is crossfaded into the start). High-passed at 200 Hz
+for the car's engine. Levelled to about -17 dBFS RMS like the tyre loops.
+
+scrape-1.wav  0.90-2.50 s (plus 0.25 s crossfaded over the start) of
+              "S023_Metal_Rail_Scrape_Mono.wav" by Pól (a rally car scraping
+              along a metal rail barrier) https://freesound.org/s/385939/
+
+Cut from Freesound's 128 kbps previews. For a final mix, the same sections can
+be re-cut from the full-quality originals (free Freesound account).

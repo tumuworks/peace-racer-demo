@@ -1,0 +1,25 @@
+Tyre sounds for src/tyres.ts. Every recording below is CC0 (public domain):
+no credit required, free for commercial use.
+
+Loops (seamless: the tail is crossfaded into the start). The recordings' own
+engines were filtered out (high-pass around 500-650 Hz) since the game has its
+own. Levelled to about -17 dBFS RMS.
+
+drift.wav     0.78-3.13 s of "palenie_opon.wav" by monosfera (a car burning
+              its tyres mid-drift)        https://freesound.org/s/628044/
+squeal.wav    6.13-6.85 s of "Nissan Maxima handbrake turn (04-25-2009).wav"
+              by audible-edge             https://freesound.org/s/71741/
+burnout.wav   3.68-5.60 s of "Nissan Maxima burnout (04-25-2009).wav"
+              by audible-edge             https://freesound.org/s/71740/
+
+Chirps (one-shots, faded out):
+
+chirp-1.wav   4.07 s, "Chrysler LHS tire squeal 01 (04-25-2009).wav" by audible-edge
+              https://freesound.org/s/71736/
+chirp-2.wav   4.14 s, "Chrysler LHS tire squeal 02 (04-25-2009).wav" by audible-edge
+chirp-3.wav   5.84 s, same recording      https://freesound.org/s/71737/
+chirp-4.wav   7.50 s, "AE0090 Volvo 740 GLE handbrake turn 01.flac" by audible-edge
+              https://freesound.org/s/76804/
+
+Cut from Freesound's 128 kbps previews. For a final mix, the same sections can
+be re-cut from the full-quality originals (free Freesound account).

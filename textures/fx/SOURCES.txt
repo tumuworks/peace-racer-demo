@@ -1,0 +1,42 @@
+Boost-flame and backfire-pop sprites. Every image below is CC0 (public domain):
+no credit required, free for commercial use.
+
+Source: "Particle Pack" 1.1 by Kenney Vleugels (Kenney.nl)
+        https://kenney.nl/assets/particle-pack   (kenney_particle-pack.zip)
+        Licence: Creative Commons Zero, CC0 1.0
+        https://creativecommons.org/publicdomain/zero/1.0/
+        (the pack's License.txt: "You may use these assets in personal and
+        commercial projects. Credit (Kenney or www.kenney.nl) would be nice but
+        is not mandatory.")
+
+All taken from the pack's "PNG (Transparent)" folder (512x512 each). The shape
+is the source's alpha, unchanged except for scaling; the colour is set to pure
+white everywhere so the game can tint it (the source darkens the colour towards
+black where alpha is low, which would leave a grey fringe under normal
+blending). Alpha under 6 cleared (stray near-invisible specks), then trimmed to
+alpha 8 and above with 3 px of padding. Lanczos downscale. Saved as 8-bit
+greyscale + alpha PNG.
+
+Flames (256x128). Kenney's muzzle flashes stand upright (tip at the top), so
+each is rotated 90 degrees clockwise: the flame points +x, its base is at the
+left edge and its axis on the middle row. All four share one scale (0.454), so
+the base lines up and only the length and outline change from frame to frame;
+the white core starts about 25-29 px in from the left edge.
+
+flame-1.png   "muzzle_04.png" (a clean, straight jet: blunt base, long taper)
+flame-2.png   "muzzle_02.png" (a round bulb at the base, short taper)
+flame-3.png   "muzzle_03.png" (arrow-shaped, with licks flaring back at the
+              base)
+flame-4.png   "muzzle_05.png" (arrow-shaped, smaller core, longer streaks)
+
+Pops (128x128, centred). Square crop centred on the shape, each scaled to fill
+the square.
+
+pop-1.png     "star_07.png" (a crisp four-point star)          scale 0.289
+pop-2.png     "star_06.png" (a bright core with four thin rays) scale 0.280
+pop-3.png     "star_09.png" (a round glow with rays: the flashbang)
+                                                               scale 0.255
+pop-4.png     "star_08.png" (an X-shaped sparkle around a small ring)
+                                                               scale 0.351
+pop-5.png     "scorch_01.png" (a spiky radial burst with a grainy centre: the
+              most explosive-looking)                          scale 0.360

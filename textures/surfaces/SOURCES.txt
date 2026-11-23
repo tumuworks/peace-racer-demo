@@ -1,0 +1,26 @@
+Photo surfaces used by the tracks (src/render/surfaces.ts). All are CC0
+(public domain): free to use in any project, no credit required. Each is the
+colour (diffuse) map only, scaled from 1024 to 512 px and saved as WebP.
+
+file               source                                         used for
+asphalt.webp       Poly Haven "Asphalt 02" (asphalt_02)           race roads, city streets
+                   https://polyhaven.com/a/asphalt_02
+freeway.webp       Poly Haven "Concrete Pavement"                 Gigi Interchange's scenery freeways
+                   https://polyhaven.com/a/concrete_pavement
+concrete.webp      Poly Haven "Dirty Concrete"                    walls, decks, pillars, grandstands,
+                   https://polyhaven.com/a/dirty_concrete         tunnel, medians, paved yards, roofs
+sand.webp          Poly Haven "Aerial Sand" (aerial_sand)         Red Mesa desert floor
+                   https://polyhaven.com/a/aerial_sand
+sandstone.webp     Poly Haven "Sandstone Cracks"                  Red Mesa's mesa and buttes
+                   https://polyhaven.com/a/sandstone_cracks
+rock.webp          Poly Haven "Rock Face 03" (rock_face_03)       Kumotori Pass slopes and cliffs
+                   https://polyhaven.com/a/rock_face_03
+grass.webp         Poly Haven "Aerial Grass Rock"                 city lots, Kumotori grass
+                   https://polyhaven.com/a/aerial_grass_rock
+facade-brick.webp  ambientCG "Facade 018 A" (Facade018A)          city buildings and houses
+                   https://ambientcg.com/a/Facade018A
+facade-glass.webp  ambientCG "Facade 006" (Facade006)             Gigi Interchange's downtown towers
+                   https://ambientcg.com/a/Facade006
+
+Poly Haven licence: https://polyhaven.com/license
+ambientCG licence:  https://docs.ambientcg.com/license/

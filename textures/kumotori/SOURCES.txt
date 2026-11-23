@@ -1,0 +1,17 @@
+Kumotori Pass backdrop: the view south over the bay (src/render/japan.ts).
+
+Both images are cut out of photographs by Fred Cherrygarden, licensed
+CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). The cut-outs
+here are adaptations and are shared under the same license.
+
+fuji.webp    Mount Fuji and the ranges in front of it, from
+             "A View of Mount Fuji from Ichikawa" (2024-12-06)
+             https://commons.wikimedia.org/wiki/File:A_View_of_Mount_Fuji_from_Ichikawa.jpg
+
+tokyo.webp   Tokyo's skyline at dusk with the Tokyo Skytree, from
+             "Tokyo - Sunset Skyline" (2024-12-06)
+             https://commons.wikimedia.org/wiki/File:Tokyo_-_Sunset_Skyline.jpg
+
+Changes: resized; cropped; the sky made transparent (and, in the Tokyo
+image, the distant Mount Fuji and ranges removed) by tools/cut-skyline-photos.py.
+In the game the photos are recoloured by the palette grade like everything else.
